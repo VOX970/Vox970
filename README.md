@@ -1,8 +1,5 @@
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/c6d17de6-24a7-42d4-afb4-61ffc986ca6a" />
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/9506a03f-e4c6-4eba-a756-9b10ef7c062b" />
 
-
-Mateus capítulo 10 versículos 32 e 33.
-Romanos capítulo 10 e versículo 9.
-Romanos capítulo 8 e versículos 1,2,3,4.
+Olá,meu nome é Alisson Gustavo,sou estudante do curso de ADS  e estou pronto para lapidar o que já sei e aprender cada vez mais sobre essa área que tanto amo que se chama técnologia.
 
 
